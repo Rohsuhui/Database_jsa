@@ -1,14 +1,14 @@
 # Database_jsa
 
-##DB PBL2 - A4
+## DB PBL2 - A4
 -목표 : 호텔 데이터베이스를 관리하는 시스템 구축
 
-##PL,Framework,SQL
+## PL,Framework,SQL
 -PL : Python3.6
 -Framework : Django
 -SQL : Oracle
 
-##Project Members
+## Project Members
 |Name|Task|
 |----|----|
 |노수희|Git Manage|
